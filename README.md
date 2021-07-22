@@ -3,7 +3,7 @@
 
 - BigSur 11.4 亲测正常
 
-> 在线安装方法
+## 在线安装方法
 
 ```shell
 Lion
@@ -71,3 +71,12 @@ Latest version
 > 注意，上面的目录结构最好不要保留其他文件，可能会有其他状况发生
 
 - 重启电脑，在启动选项里选择优盘中的`OpenCore.efi`启动即可
+
+## 耳机🎧解决
+
+进入 `ComboJack` 目录，执行 `ComboJack_Installer/install.sh` 文件即可。
+
+
+## 其他说明
+- 安装macOS Big Sur的过程很漫长 , 请耐心等待 , 不一定是有错误
+- 每次升级或替换新的EFI后 , 最好重置一下NVRAM
