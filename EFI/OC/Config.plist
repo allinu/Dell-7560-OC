@@ -1530,7 +1530,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Auto</string>
+			<string>chris1111/5KMac</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -1658,7 +1658,7 @@
 				<key>SystemAudioVolume</key>
 				<data>IQ==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=11 agdpmod=vit9696 -wegnoegpu igfxonln=1</string>
+				<string>keepsyms=1 debug=0x100 alcid=11 agdpmod=vit9696 -wegnoegpu igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1731,7 +1731,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020153004NP8PGAD</string>
+			<string>C02018501J9P8PG8C</string>
 			<key>ProcessorType</key>
 			<integer>1547</integer>
 			<key>ROM</key>
@@ -1743,18 +1743,18 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CKWYWML7H</string>
+			<string>C02CN0AHML7H</string>
 			<key>SystemUUID</key>
-			<string>5DDFBE1E-27DA-489E-B62D-0E3559B08A23</string>
+			<string>CC31AE64-08C5-4044-A206-99D3AA587C0D</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>05/21/2021</string>
+			<string>07/05/2021</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>1715.0.26.0.0</string>
+			<string>1715.0.57.0.0</string>
 			<key>BoardAssetTag</key>
 			<string></string>
 			<key>BoardLocationInChassis</key>
@@ -1764,7 +1764,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-5F9802EFE386AA28</string>
 			<key>BoardSerialNumber</key>
-			<string>C020153004NP8PGAD</string>
+			<string>C02018501J9P8PG8C</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1774,7 +1774,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02CKWYWML7H</string>
+			<string>C02CN0AHML7H</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -1798,9 +1798,9 @@
 			<key>SystemSKUNumber</key>
 			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>C02CKWYWML7H</string>
+			<string>C02CN0AHML7H</string>
 			<key>SystemUUID</key>
-			<string>5DDFBE1E-27DA-489E-B62D-0E3559B08A23</string>
+			<string>CC31AE64-08C5-4044-A206-99D3AA587C0D</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -1837,6 +1837,8 @@
 			<key>AppleEvent</key>
 			<string>Auto</string>
 			<key>CustomDelays</key>
+			<false/>
+			<key>GraphicsInputMirroring</key>
 			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>

@@ -57,7 +57,7 @@ Latest version
 
 ```text
 ├── EFI
-│	├── Dell
+│	├── BOOT
 │	└── OC
 └── com.apple.recovery.boot
  	├── BaseSystem.chunklist
